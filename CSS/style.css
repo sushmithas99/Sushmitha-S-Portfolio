@@ -1,0 +1,49 @@
+                body {
+                    margin: 0;
+                }
+                
+                .container {
+                    background-color: rgb(252, 241, 228);
+                    width: 800px;
+                    margin: 0 auto;
+                    box-shadow: 0px 9px 13px 5px;
+                }
+                
+                .header {
+                    padding: 0px 0px 20px 40px;
+                }
+                
+                img.profile-pic {
+                    border-radius: 50%;
+                    height: 200px;
+                    width: 200px;
+                    box-shadow: black 8px 8px 9px;
+                }
+                
+                footer {
+                    padding: 10px 6px 10px 40px;
+                    background-color: gainsboro;
+                    font-family: 'Courier New', Courier, monospace;
+                    font-size: 15px;
+                }
+                
+                .education-block {
+                    max-width: 700px;
+                    margin: 0 auto 10px auto;
+                    padding: 5px;
+                    border: 2px solid #dcd9d9;
+                    text-align: left;
+                }
+                
+                .bg-1 {
+                    background-color: aliceblue;
+                }
+                
+                .bg-2 {
+                    background-color: lavenderblush;
+                }
+                
+                .clr {
+                    color: dimgray;
+                    font-size: medium;
+                }
