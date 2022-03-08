@@ -27,7 +27,13 @@
       font-size: 15px;
       text-align: center;
   }
-  
+  .experience-block {
+    max-width: 700px;
+    margin: 0 auto 10px auto;
+    padding: 5px;
+    /* border: 2px solid #dcd9d9; */
+    text-align: left;
+}
   .education-block {
       max-width: 700px;
       margin: 0 auto 10px auto;
